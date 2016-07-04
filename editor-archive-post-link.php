@@ -2,8 +2,8 @@
 /*
 Plugin Name: Editor archive link
 Description: Adding post type archive link to TinyMCE link pop-up box
-Version: 1.0
-Author: Mathieu Cheze
+Version: 0.1
+Author: mthchz
 */
 
 // No direct requests

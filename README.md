@@ -1,1 +1,0 @@
-editor-archive-post-link
