@@ -1,6 +1,5 @@
 === Editor archive link ===
 Contributors: mthchz
-Donate link: http://sewpafly.github.io/post-thumbnail-editor/#toc_donations
 Tags: archive, post type, link, editor, tinymce
 Tested up to: 4.5
 Stable tag: trunk
